@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P08 Locating A Place</string>
+    <string-array name="array">
+        <item> HQ -Causeway Point</item>
+        <item>CENTRAL -Plaza Singapura</item>
+        <item>EAST- Parkway Parade</item>
+    </string-array>
+</resources>
